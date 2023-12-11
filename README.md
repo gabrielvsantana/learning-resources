@@ -52,3 +52,9 @@
 ## Concepts/Glossary
 
 - [The Twelve-Factor App](https://12factor.net/)
+
+<br/>
+
+# For More Dev Notes
+
+This is just one piece of my open personal notes collection, where I'm mapping out all my knowledge. If you're keen on checking out other topics, give this a click: ***[official dev-notes](https://github.com/gabrielvsantana/dev-notes)***
